@@ -1,3 +1,8 @@
+# C-MuRyzen
+Client do Mu Ryzen.
+
+Based on [sven-n/MuMain](https://github.com/sven-n/MuMain). Original project documentation follows.
+
 # MU Online Client Sources
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/sven-n/MuMain)
